@@ -1,5 +1,6 @@
 <h1 align='center'>Hi there 👋</h1>
-
+I'm Liu, Zheng (Mark) - a Google SEMer, PC Hardware Enthusiast and Gamer from Zhengzhou, Henan, China.
+🌱 I’m interested in and currently learning Python, so in the future I could automate things or create tools that I need for SEM.
 <!--
 **foolstuck/foolstuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
